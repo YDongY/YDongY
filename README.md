@@ -5,10 +5,10 @@
 ## Hi there, I'm YDongY! 👋
 
 <a href="https://ydongy.cn">
-  <img align="left" alt="YDongY | Blog" width="20px" src="https://raw.githubusercontent.com/YDongY/YDongY/master/assets/laptop.svg" />
+  <img align="left" alt="YDongY | Blog" width="50px" src="https://raw.githubusercontent.com/YDongY/YDongY/master/assets/web-design.svg" />
 </a>
 <a href="https://coding.ydongy.cn">
-  <img align="left" alt="YDongY | Coding" width="20px" src="https://raw.githubusercontent.com/YDongY/YDongY/master/assets/open-book.svg" />
+  <img align="left" alt="YDongY | Coding" width="50px" src="https://raw.githubusercontent.com/YDongY/YDongY/master/assets/open-book.svg" />
 </a>
 
 <br />
